@@ -63,3 +63,11 @@ footer {
   color: white;
   margin-top: 30px;
 }
+
+div {
+  background: #ffffff;
+  padding: 15px;
+  margin-top: 15px;
+  border-left: 4px solid #4CAF50;
+  border-radius: 8px;
+}
