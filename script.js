@@ -1,2 +1,5 @@
 console.log("Portfolio loaded successfully!");
-alert("Welcome to my portfolio 🚀");
+
+function toggleDarkMode() {
+  document.body.classList.toggle("dark");
+}
